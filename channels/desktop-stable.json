@@ -1,0 +1,13 @@
+{
+  "release_id": "carix-desktop-v0.7.0",
+  "version": "0.7.0",
+  "channel": "stable",
+  "platform": "windows",
+  "arch": "x64",
+  "package_url": "https://github.com/miskin1702/carix-releases/releases/download/v0.7.0/CARIX_0.7.0_x64-setup.exe",
+  "package_sha256": "95ce7696281928aeceff5d5d681852b2832aeb50ec1d6f1688fb46d2bd389413",
+  "package_size_bytes": 6380773,
+  "published_at": "2026-11-01T01:46:54.547Z",
+  "trusted_key_id": "carix-production-2026",
+  "signature": "638ff1e9f616b830ba9563be2dac32f4dba2a333071d61682db8cb0b68f32334db68cf6f88417753160bc466c2fa2e5b342cbd0c7665b9bda012e5b5b3a5d902"
+}
