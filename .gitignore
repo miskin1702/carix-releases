@@ -1,0 +1,20 @@
+# Only public channel metadata, checksums, notes and this policy belong in Git.
+*
+!/.gitignore
+!/README.md
+!/channels/
+!/channels/*.json
+!/checksums/
+!/checksums/*.txt
+!/notes/
+!/notes/*.md
+# Binary packages are GitHub Release assets, never Git objects.
+*.exe
+*.tar.gz
+*.zip
+.env*
+*.pem
+*.key
+*.pfx
+*.p12
+node_modules/
