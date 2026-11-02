@@ -1,0 +1,2 @@
+f1fc7ca8ac5012bcd7dbf47c562f9aa9d32f444cfd26da0d06c12a0eff8dacc6  CARIX-Setup-v0.8.2.exe
+852cd08f7906bd6cb3dfa42befcc9ef029110261b8d092774ecdab7db58c5c39  stable.json

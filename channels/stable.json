@@ -1,12 +1,12 @@
 {
-  "release_id": "carix-v0.8.1",
-  "version": "0.8.1",
+  "release_id": "carix-v0.8.2",
+  "version": "0.8.2",
   "channel": "stable",
   "platform": "win32",
   "arch": "x64",
-  "package_url": "https://github.com/miskin1702/carix-releases/releases/download/v0.8.1/CARIX-Setup-v0.8.1.exe",
-  "package_size_bytes": 106512979,
-  "package_sha256": "fe803a201f3f5ef2c90100bd8128907335e025ed3d1aaf8109306bf1d31328a7",
+  "package_url": "https://github.com/miskin1702/carix-releases/releases/download/v0.8.2/CARIX-Setup-v0.8.2.exe",
+  "package_size_bytes": 131898046,
+  "package_sha256": "f1fc7ca8ac5012bcd7dbf47c562f9aa9d32f444cfd26da0d06c12a0eff8dacc6",
   "schema": {
     "supported_min": 6,
     "supported_max": 8
@@ -20,6 +20,6 @@
     "safe_without_db_restore": false
   },
   "trusted_key_id": "carix-production-2026",
-  "published_at": "2026-11-02T14:58:31.665Z",
-  "signature": "b330094ef4259f725b558fa93b3faec27f258aad84afe34233891a9cf213e8569db09b50cc98a60cb2f1bb3acd521c7b072673d8c348e1807d3b1a1acf477806"
+  "published_at": "2026-11-02T17:28:35.264Z",
+  "signature": "de32878c554563245b67e1600fd12b3137d31dbca83be7d446bccc7ada2a0238d940b9990023536ec062b53c0fac5c32945a736d32a6ba4fdd0caa2e3e9fc703"
 }
