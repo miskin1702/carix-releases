@@ -1,23 +1,25 @@
 {
-  "release_id": "carix-server-v0.7.0",
-  "version": "0.7.0",
+  "release_id": "carix-v0.8.0",
+  "version": "0.8.0",
   "channel": "stable",
   "platform": "win32",
   "arch": "x64",
-  "package_url": "https://github.com/miskin1702/carix-releases/releases/download/v0.7.0/carix-0.7.0-win32-x64.tar.gz",
-  "package_size_bytes": 48276169,
-  "package_sha256": "c07ee87dfc6466bc7990cb0a6f460c66a964d1b4fe783081c087b5099b1a2a97",
+  "package_url": "https://github.com/miskin1702/carix-releases/releases/download/v0.8.0/CARIX-Setup-v0.8.0.exe",
+  "package_size_bytes": 106512966,
+  "package_sha256": "65d2ff25eedbd0d6a458fbe507708021f337a88ad5e7c2ef9298363253c6aac0",
   "schema": {
-    "supported_min": 7,
-    "supported_max": 7
+    "supported_min": 6,
+    "supported_max": 8
   },
   "min_controller_version": 1,
   "rollback": {
-    "compatible_previous_versions": [],
+    "compatible_previous_versions": [
+      "0.7.0"
+    ],
     "schema_compatible_down_to": 7,
     "safe_without_db_restore": false
   },
   "trusted_key_id": "carix-production-2026",
-  "published_at": "2026-11-01T01:46:54.547Z",
-  "signature": "41e35075e399d36a2a1c69e972193571724e21d279dd6e867e3d977dfe993d0df47e6012edfee57ba6eb14a989c54205006a0ae966e4436a8f9ca4ea33fab70f"
+  "published_at": "2026-11-02T11:51:30.372Z",
+  "signature": "9ec675362c1e4d6c89303e62b731d6aa1fee7ad68b3edbad1bcb5afd2adad55edfcc3d48b96ff86512085aad9b3eb4f3cb9fafb1f143c9bf3f29f0b94514870d"
 }
