@@ -1,0 +1,25 @@
+{
+  "release_id": "carix-v0.9.5",
+  "version": "0.9.5",
+  "channel": "stable",
+  "platform": "win32",
+  "arch": "x64",
+  "package_url": "https://github.com/miskin1702/carix-releases/releases/download/v0.9.5/CARIX-Setup-v0.9.5.exe",
+  "package_size_bytes": 86939687,
+  "package_sha256": "bb5e1d4fe11d40e4a357ed346818ced42077c43190673fc3cbdcd4427925f80a",
+  "schema": {
+    "supported_min": 6,
+    "supported_max": 9
+  },
+  "min_controller_version": 1,
+  "rollback": {
+    "compatible_previous_versions": [
+      "0.7.0"
+    ],
+    "schema_compatible_down_to": 7,
+    "safe_without_db_restore": false
+  },
+  "trusted_key_id": "carix-production-2026",
+  "published_at": "2026-11-07T07:03:50.843Z",
+  "signature": "a459e6845596e67e7d66e8260a30faa7c0c9be052120e2308036fd1317dc460ec80c260cec9601fa6e8df3172bb04bdc4a00d5ec567297984c79abc6cddbc105"
+}
