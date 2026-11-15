@@ -1,15 +1,15 @@
 {
-  "release_id": "lita-v1.1",
-  "version": "1.1.0",
+  "release_id": "lita-v1.2",
+  "version": "1.2.0",
   "channel": "stable",
   "platform": "win32",
   "arch": "x64",
-  "package_url": "https://github.com/miskin1702/carix-releases/releases/download/v1.1/Lita-x64-Setup-v1.1.exe",
-  "package_size_bytes": 87888454,
-  "package_sha256": "0c1abf71bb0c13273eed8a92f2e1138e3b857c11986c5c6cecf469a26cd2c68b",
+  "package_url": "https://github.com/miskin1702/carix-releases/releases/download/v1.2/Lita-x64-Setup-v1.2.exe",
+  "package_size_bytes": 87901603,
+  "package_sha256": "a2ff9af49bb2e4968eb23dbb90c865e5ca7afea84796b61ecd1e0c45e8052221",
   "schema": {
     "supported_min": 6,
-    "supported_max": 9
+    "supported_max": 12
   },
   "min_controller_version": 1,
   "rollback": {
@@ -20,6 +20,6 @@
     "safe_without_db_restore": false
   },
   "trusted_key_id": "carix-production-2026",
-  "published_at": "2026-11-14T12:53:44.745Z",
-  "signature": "1682dfab17fd3538f918a365cd70d4856cffca52bd32cb2b6ddacb2de14e40e9bb0fb0f2cbf24d4ba775b6f6c0be68da13e0d216e1c1245acd296a4f7bd35405"
+  "published_at": "2026-11-15T13:45:36.079Z",
+  "signature": "98cd7fe12f4fa6f1d65dde3f0cf67fb8333b83e8f7cc1f64138f5b8d140d1f353a98f3af72efde152985f906001bfdca556a644b1321f0f42e82ef96b1272002"
 }
