@@ -1,0 +1,2 @@
+dd224b376d6ede4cce9216afaa3112f0e03ae65b803b43f0e1dd1c1f6a11e76a  Lita-x64-Setup-v1.3.exe
+a800636e0d9923ad937057141f2ae74fdbd408bba9d7aaab9398e195ab94a8c0  stable-v2.json
